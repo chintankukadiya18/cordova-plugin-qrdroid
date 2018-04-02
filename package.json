@@ -1,0 +1,25 @@
+{
+  "name": "qrdroid",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-qrdroid",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chintansoni54/cordova-plugin-qrdroid.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Chintan Soni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chintansoni54/cordova-plugin-qrdroid/issues"
+  },
+  "homepage": "https://github.com/chintansoni54/cordova-plugin-qrdroid#readme"
+}
